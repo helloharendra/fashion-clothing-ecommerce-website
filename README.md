@@ -10,6 +10,25 @@ Whether you are launching a new clothing brand or taking an existing fashion bus
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Home**
+
+![Home](screenshots/1-home.png)
+
+**Product Page**
+
+![Product Page](screenshots/2-product.png)
+
+<table>
+  <tr>
+    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
+  </tr>
+</table>
+
+---
+
 ## Fashion E-commerce Website Development
 
 A fashion e-commerce website gives customers an easy way to explore clothing collections, discover products, select sizes and colors, place orders, and shop online.
@@ -226,20 +245,3 @@ Let's discuss your requirements and build an e-commerce platform aligned with yo
 This repository serves as a service and project showcase for fashion and clothing e-commerce website development by Naya Prayog Technologies.
 
 It does not grant permission to redistribute, resell, or commercially reuse proprietary company materials or software. Project-specific source code, deliverables, and licensing terms are agreed separately.
-
-<!-- screenshots -->
-## Screenshots
-
-**Home**
-
-![Home](screenshots/1-home.png)
-
-**Product Page**
-
-![Product Page](screenshots/2-product.png)
-
-<table>
-  <tr>
-    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
-  </tr>
-</table>
